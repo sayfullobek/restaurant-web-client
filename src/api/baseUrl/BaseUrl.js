@@ -1,1 +1,1 @@
-export const baseUrl = "http://localhost/api"
+export const baseUrl = "https://online-restaurant-demo.herokuapp.com"
